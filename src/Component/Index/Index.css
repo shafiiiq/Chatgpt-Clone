@@ -1,0 +1,39 @@
+
+.Index {
+    height: 80%;
+}
+
+.index-inform {
+    width: 60%;
+}
+
+.Index > svg {
+width: 3.5rem;
+}
+
+.inform-item  {
+    height: 7.8rem;
+    width: 12rem;
+    border: 1px solid var(--gray-700);
+}
+
+.inform-item:hover {
+    background-color: var(--gray-700);
+    border: 0;
+}
+
+.index-one {
+    color: rgb(118, 208, 235);
+}
+
+.index-two {
+    color: rgb(226, 197, 65);
+}
+
+.index-three {
+    color: rgb(203, 139, 208);
+}
+
+.index-four {
+    color: rgb(237, 98, 98);
+}

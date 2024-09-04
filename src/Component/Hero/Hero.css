@@ -1,0 +1,32 @@
+.Hero {
+    width: 85%;
+    background-color: var(--gray-800);
+}
+
+.prompt-egine  {
+    height: 3.5rem;
+    width: 60%;
+}
+
+.prompt-input {
+    background-color: var(--gray-750);
+}
+
+.prompt-input::placeholder {
+    color: var(--gray-500);
+}
+
+.attach-file {
+    left:  1rem;
+}
+
+.send-prompt {
+    right: 1rem;
+    background-color: var(--gray-600);
+    height: 2.4rem;
+    width: 2.4rem;
+}
+
+.send-prompt span {
+ color: var(--gray-750);
+}

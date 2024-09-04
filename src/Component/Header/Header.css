@@ -1,0 +1,17 @@
+.Header {
+    height: 4rem;
+}
+
+.user-account {
+    height: 2.5rem;
+    width: 2.5rem;
+    background-color: var(--gray-600);
+}
+
+.app-name {
+    height: 3rem;
+}
+
+.app-name:hover {
+    background-color: var(--gray-750);
+}
